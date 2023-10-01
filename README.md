@@ -1,2 +1,1 @@
-# LinuxMachine
-CreatingFirstLinusInstance
+# AWS
